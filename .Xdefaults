@@ -1,0 +1,16 @@
+XTerm*loginShell: true
+Mwm*iconDecoration: label activelabel
+Mwm*showFeedback: resize placement move
+Mwm*iconPlacement: bottom right
+Mwm*moveOpaque: false
+Mwm*cleanText: true
+Mwm*icon*foreground: white
+Mwm*background: #b6bdf1
+Mwm*activeBackground: #dfe2f9
+Mwm*foreground: #8995e9
+Mwm*fontList: 9x13
+Mwm*menu*fontList: 9x13
+Mwm*menu*background: #e4e6f7
+Mwm*icon*background: #e4e6f7
+Mwm*clientDecoration: -resize
+
